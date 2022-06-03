@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIFdisassembler", "GIFdisassembler\GIFdisassembler.csproj", "{8C7837F0-3B9B-49E7-BE57-348ED8869505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7837F0-3B9B-49E7-BE57-348ED8869505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7837F0-3B9B-49E7-BE57-348ED8869505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7837F0-3B9B-49E7-BE57-348ED8869505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7837F0-3B9B-49E7-BE57-348ED8869505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1975706F-F8BB-4065-BBC4-4AE9F58F2DA5}
+	EndGlobalSection
+EndGlobal

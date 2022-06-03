@@ -1,0 +1,7 @@
+C:\Users\VR-7\Desktop\LocalProjects\GIFdisassembler\GIFdisassembler\bin\Debug\GIFdisassembler.exe.config
+C:\Users\VR-7\Desktop\LocalProjects\GIFdisassembler\GIFdisassembler\bin\Debug\GIFdisassembler.exe
+C:\Users\VR-7\Desktop\LocalProjects\GIFdisassembler\GIFdisassembler\bin\Debug\GIFdisassembler.pdb
+C:\Users\VR-7\Desktop\LocalProjects\GIFdisassembler\GIFdisassembler\obj\Debug\GIFdisassembler.csproj.AssemblyReference.cache
+C:\Users\VR-7\Desktop\LocalProjects\GIFdisassembler\GIFdisassembler\obj\Debug\GIFdisassembler.csproj.CoreCompileInputs.cache
+C:\Users\VR-7\Desktop\LocalProjects\GIFdisassembler\GIFdisassembler\obj\Debug\GIFdisassembler.exe
+C:\Users\VR-7\Desktop\LocalProjects\GIFdisassembler\GIFdisassembler\obj\Debug\GIFdisassembler.pdb
